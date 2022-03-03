@@ -1,0 +1,22 @@
+.options{
+    display: flex;
+}
+
+.option__button{
+    margin-right: 5px;
+    border-radius: 5px;
+    border: solid 1px lightgray;
+}
+
+.title{
+    font-weight: 500;
+}
+
+.statistics{
+    display: flex;
+    flex-direction: column;
+}
+
+.statistic__item{
+    margin-bottom: 3px;
+}
